@@ -1,0 +1,139 @@
+*{
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-right: 0px;
+}
+
+.titlebar li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.titlebar ul{
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+
+.simplepricing{
+  background-image: url('/Users/Kevin/tiy/projects/simplepricing/images/background.jpg');
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  color: white;
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+
+.simplepricing p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.plans{
+  text-align: center;
+  margin-right: 10px;
+
+}
+.plans div{
+  display: inline-block;
+  text-align: center;
+}
+
+.column{
+  padding: 10px 10px;
+  width: 23%;
+}
+
+
+
+/*Personal Column*/
+
+.personal ul li.green{
+  background-color: #519250;
+  color: white;
+  padding-top: 30px;
+}
+
+.personal ul li{
+  background-color: #F7F7F7;
+  color: #59676D;
+}
+
+/*Small Business Column*/
+.smallbusiness ul li.blue{
+  background-color: #2A4787;
+  color: white;
+  padding-top: 30px;
+}
+
+.smallbusiness ul li{
+  background-color: #F7F7F7;
+  color: #59676D;
+}
+
+
+/*Enterprise Colum*/
+
+.enterprise ul li.black{
+  background-color: #101010;
+  color: white;
+  padding-top: 30px;
+}
+
+.enterprise ul li{
+  background-color: #F7F7F7;
+  color: #59676D;
+}
+
+.column ul li.row2{
+  font-size: 75px;
+  padding-top: 0px;
+}
+
+.column ul li.row3{
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+.column ul li.grey{
+  border: 1px solid black;
+  padding: 8px 25px;
+}
+
+.column ul li span{
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin: 10px ;
+  font-weight: bold;
+}
+
+.column ul li.choose{
+  background-color: white;
+  padding: 20px;
+}
+
+.paragraphs{
+  margin-left: 185px;
+}
+
+.paragraphs ul{
+  display: inline-block;
+  width: 400px;
+  margin-right: 50px;
+}
+
+.footer{
+  background-color: black;
+  height: 50px;
+  color: grey;
+  text-align: center;
+  padding-top: 3px;
+}
+
+.footer a{
+  color: white;
+}
+
+
